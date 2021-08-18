@@ -1,5 +1,6 @@
 # Richardson-extrapolation
-Taking the linear approximation of two approximations which will give us a higher order error. This higher order error will me smaller and give an overall better approximation. Thhe lower order error terms are removed to get this better approximation.
+
+## Taking the linear approximation of two approximations which will give us a higher order error. This higher order error will me smaller and give an overall better approximation. Thhe lower order error terms are removed to get this better approximation.
 
 Parameters:
 D(u,x,h): The function D takes a function u and two real-values, x and h, and the order of the derivative.
